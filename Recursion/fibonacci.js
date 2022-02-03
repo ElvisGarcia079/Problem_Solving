@@ -1,3 +1,3 @@
-function fibonacci(){
+function fibonacci(num){
     
 }

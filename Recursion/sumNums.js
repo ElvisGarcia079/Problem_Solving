@@ -1,3 +1,3 @@
-function sumNums(){
-    
+function sumNums(n){
+
 }

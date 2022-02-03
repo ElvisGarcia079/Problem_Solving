@@ -7,3 +7,5 @@ function fibonacci(num){
     //Recursive Case
     return fibonacci(num - 2) + fibonacci(num - 1);
 }
+
+console.log(fibonacci(15));
